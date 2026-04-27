@@ -1,0 +1,7 @@
+streamlit
+librosa
+numpy
+matplotlib
+reportlab
+langdetect
+soundfile
